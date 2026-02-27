@@ -11,12 +11,11 @@
 | ... | ... | ... | ... | ... |
 
 ### 🗺️ **Site Map**
-* [🔐 Authenticate User](./docs/authenticate-user.md)
-* [🪪 Validate Credentials](./docs/validate-credentials.md)
-* [📅 Schedule Events](./docs/schedule-events.md)
-* [🔄 Synchronize Geolock API](./docs/synchronize-geolock-api.md)
-* [👥 View Member Attendance](./docs/view-member-attendance.md)
-* [📊 Analyze Participation](./docs/analyze-participation.md)
+* [🔐 Access Management](./docs/auth.md)
+* [📅 Event Scheduling](./docs/events.md)
+* [🔄 Geolock Sync](./docs/geolock.md)
+* [👥 Member Attendance](./docs/attendance.md)
+* [📊 Participation Analytics](./docs/analytics.md)
 
 <br>
 
