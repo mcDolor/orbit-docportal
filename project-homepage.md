@@ -11,7 +11,7 @@
 | ... | ... | ... | ... | ... |
 
 ### 🗺️ **Site Map**
-* [🏠 Project Homepage](./project-homepage.md)
+* [🏠 Project Homepage](project-homepage.md)
 * [🔐 Access Management](./docs/auth.md)
 * [📅 Event Scheduling](./docs/events.md)
 * [🔄 Geolock Sync](./docs/geolock.md)
