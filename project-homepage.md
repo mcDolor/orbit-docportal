@@ -3,20 +3,17 @@
 
 | 👾 Revision Date | 📅 Document Version | 📝 Description | 🏷️ Tracking Notes | 👤 Approved By | 
 | :--- | :--- | :--- | :--- | :--- |
-| ... | ... | Access Management | FR1.0 | **Dolor, M.C.**<br>_Lead Dev/Project Manager/Lead Designer_ |
-| ... | ... | Event Scheduling Module | FR2.0 | **Dolor, M.C.**<br>_Lead Dev/Project Manager/Lead Designer_ |
-| ... | ... | Geolock API Synchronization | FR3.0 | **Dolor, M.C.**<br>_Lead Dev/Project Manager/Lead Designer_ |
-| ... | ... | Member Attendance Viewer | FR4.0 | **Dolor, M.C.**<br>_Lead Dev/Project Manager/Lead Designer_ |
-| ... | ... | Participation Analysis | FR5.0 | **Dolor, M.C.**<br>_Lead Dev/Project Manager/Lead Designer_ |
+| 2026-02-28 | v1.0 | First complete document version (FR1.0 - FR5.0) | OB.010.001 | **Dolor, M.C.**<br>_Lead Dev/Project Manager/Lead Designer_ |
+| ... | ... | ... | ... |... |
 | ... | ... | ... | ... | ... |
 
 ### 🗺️ **Site Map**
-* [🏠 Project Homepage](project-homepage.md)
-* [🔐 Access Management](./docs/auth.md)
-* [📅 Event Scheduling](./docs/events.md)
-* [🔄 Geolock Sync](./docs/geolock.md)
-* [👥 Member Attendance](./docs/attendance.md)
-* [📊 Participation Analytics](./docs/analytics.md)
+* 🏠 **Project Homepage**
+* [🔐 Access Management](./docs/access-management.md)
+* [📅 Event Scheduling Module](./docs/event-scheduling-module.md)
+* [🔄 Geolock API Synchronization](./docs/geolock-api-synchronization.md)
+* [👥 Member Attendance Viewer](./docs/member-attendance-viewer.md)
+* [📊 Participation Analytics](./docs/participation-analytics.md)
 
 <br>
 
